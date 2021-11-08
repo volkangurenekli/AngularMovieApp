@@ -1,0 +1,3 @@
+yarn prepare
+
+yarn start
